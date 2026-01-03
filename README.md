@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Tamer A. Assaf  
-### 🚀 FullStack Developer | 🌍 GIS Specialist
+### 🚀 Full-Stack Developer | 🌍 GIS Specialist
 
 [![MERN Stack](https://img.shields.io/badge/MERN-FullStack-%2300ffee?style=flat&logo=mongodb&logoColor=white)](https://mern.dev)
 [![GIS Expert](https://img.shields.io/badge/GIS-Specialist-%2300ffee?style=flat&logo=qgis&logoColor=white)](https://qgis.org)
@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate **Full Stack Developer** specializing in the **MERN Stack** and an experienced **GIS Specialist** with expertise in geospatial technologies. I thrive on building scalable web applications, integrating real-time GIS solutions, and crafting intuitive user experiences. My mission is to bridge the gap between software development and geospatial intelligence to create impactful digital solutions.
+I am a passionate **Full-Stack Developer** specializing in the **MERN Stack** and an experienced **GIS Specialist** with expertise in geospatial technologies. I thrive on building scalable web applications, integrating real-time GIS solutions, and crafting intuitive user experiences. My mission is to bridge the gap between software development and geospatial intelligence to create impactful digital solutions.
 
 ---
 
@@ -29,10 +29,9 @@ I am a passionate **Full Stack Developer** specializing in the **MERN Stack** an
 ![PostGIS](https://img.shields.io/badge/-PostGIS-336791?logo=postgresql&logoColor=white)
 
 ### 🔧 Other Tools & Technologies
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
+
 
 ---
 
@@ -58,12 +57,12 @@ I am a passionate **Full Stack Developer** specializing in the **MERN Stack** an
 
 Feel free to reach out for collaborations, job opportunities, or tech discussions.
 
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/tamer.assaf.fullstack)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/tamtechgis)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/tamer.assaf44)
 [![TikTok](https://img.shields.io/badge/-TikTok-000000?logo=tiktok&logoColor=white)](https://tiktok.com/@tamerassaf3)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/tamer-a-assaf)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/tamer-Assaf2)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/Tamer_A_Assaf)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/TamTech43281)
 
 ---
 
@@ -80,18 +79,3 @@ Experience the animated social interface from my portfolio:
     <i class="bx bxl-linkedin"></i><span>LinkedIn</span>
   </a>
 </div>
-```
-
----
-
-### 🎯 Highlights in This README:
-✅ **Modern Badge Styling** (Matches Cyberpunk/Neon Theme)  
-✅ **Clear Skill & Tech Stack Sections**  
-✅ **Interactive Social Links with Platform Colors**  
-✅ **Featured Project Showcases with Real Links**  
-✅ **Custom Animated Social Bar for Portfolio Integration**  
-✅ **Bilingual Arabic/English Elements for Global Reach**  
-✅ **Call-to-Action for Connections & Opportunities**  
-
-🚀 **Let’s innovate together!**
-
