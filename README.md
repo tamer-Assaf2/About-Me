@@ -206,10 +206,13 @@ const tamer = {
 ```html
 <!-- Animated Social Links Component -->
 <div class="social">
+<a href="https://www.youtube.com/@TamerAssaf-FullStackDev" target="_blank">
+    <i class="bx bxl-youtube"></i><span>YouTube</span>
+  </a>
   <a href="https://github.com/tamer-Assaf2" target="_blank">
     <i class="bx bxl-github"></i><span>GitHub</span>
   </a>
-  <a href="https://linkedin.com/in/tamer-a-assaf" target="_blank">
+  <a href="https://linkedin.com/in/tam-tech-704548153" target="_blank">
     <i class="bx bxl-linkedin"></i><span>LinkedIn</span>
   </a>
   <a href="https://facebook.com/tamtechgis" target="_blank">
