@@ -87,7 +87,7 @@ const tamer = {
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tamer-Assaf2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a1628&title_color=00c9b1&icon_color=d4a843&text_color=ffffff&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tamer-Assaf2&theme=tokyonight&hide_border=true&background=0a1628&ring=00c9b1&fire=d4a843&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=tamer-Assaf2&theme=tokyonight&hide_border=true&background=0a1628&ring=00c9b1&fire=d4a843&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888" />
 
 <br/>
 
@@ -105,7 +105,21 @@ const tamer = {
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=tamer-Assaf2&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B"/>
+<!-- Trophy API - تظهر بناءً على نشاط الحساب -->
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=tamer-Assaf2&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&column=6&title=Stars,Commit,Followers,Repositories,PullRequest,Issues"/>
+
+<br/><br/>
+
+<!-- Guaranteed Badges - تظهر دايماً -->
+<img src="https://img.shields.io/badge/🚀_MERN-Full%20Stack%20Dev-00c9b1?style=for-the-badge&labelColor=0a1628"/>
+<img src="https://img.shields.io/badge/🌍_GIS-Specialist-d4a843?style=for-the-badge&labelColor=0a1628"/>
+<img src="https://img.shields.io/badge/💻_Open%20Source-Contributor-7b5ea7?style=for-the-badge&labelColor=0a1628"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/📍_Palestine-Developer-e63946?style=for-the-badge&labelColor=0a1628"/>
+<img src="https://img.shields.io/badge/🗺️_Geospatial-Innovator-199900?style=for-the-badge&labelColor=0a1628"/>
+<img src="https://img.shields.io/badge/⚡_Vanilla_JS-Purist-F7DF1E?style=for-the-badge&labelColor=0a1628&logoColor=black"/>
 
 </div>
 
@@ -200,30 +214,23 @@ const tamer = {
 
 ---
 
-## 💻 Animated Social Component
+## 💻 Portfolio & Social Presence
 
-> من portfolio شخصي — مكوّن روابط اجتماعية متحرك
+> استكشف أعمالي ومحتواي التقني عبر هذه المنصات
 
-```html
-<!-- Animated Social Links Component -->
-<div class="social">
-  <a href="https://www.youtube.com/@TamerAssaf-FullStackDev" target="_blank">
-    <i class="bx bxl-youtube"></i><span>YouTube</span>
-  </a>
-  <a href="https://github.com/tamer-Assaf2" target="_blank">
-    <i class="bx bxl-github"></i><span>GitHub</span>
-  </a>
-  <a href="https://linkedin.com/in/tam-tech-704548153" target="_blank">
-    <i class="bx bxl-linkedin"></i><span>LinkedIn</span>
-  </a>
-  <a href="https://facebook.com/tamtechgis" target="_blank">
-    <i class="bx bxl-facebook"></i><span>Facebook</span>
-  </a>
-  <a href="https://x.com/TamTech43281" target="_blank">
-    <i class="bx bxl-twitter"></i><span>Twitter/X</span>
-  </a>
+<div align="center">
+
+| المنصة | المحتوى | الرابط |
+|--------|---------|--------|
+| 🎬 **YouTube** | دروس Full-Stack & GIS | [![YouTube](https://img.shields.io/badge/Watch-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@TamerAssaf-FullStackDev) |
+| 💼 **LinkedIn** | مشاريع مهنية & خبرات | [![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tam-tech-704548153) |
+| 👨‍💻 **GitHub** | مشاريع مفتوحة المصدر | [![GitHub](https://img.shields.io/badge/Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/tamer-Assaf2) |
+| 📘 **Facebook** | TamTech GIS Page | [![Facebook](https://img.shields.io/badge/Follow-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/tamtechgis) |
+| 📸 **Instagram** | لقطات من المشاريع | [![Instagram](https://img.shields.io/badge/Follow-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/tamer.assaf44) |
+| 🎵 **TikTok** | محتوى تقني سريع | [![TikTok](https://img.shields.io/badge/Follow-010101?style=flat&logo=tiktok&logoColor=white)](https://tiktok.com/@tamerassaf3) |
+| 🐦 **X (Twitter)** | أفكار & تقنيات | [![X](https://img.shields.io/badge/Follow-000000?style=flat&logo=x&logoColor=white)](https://x.com/TamTech43281) |
+
 </div>
-```
 
 ---
 
