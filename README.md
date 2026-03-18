@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:0d2d4f,100:00c9b1&height=200&section=header&text=Tamer%20A.%20Assaf&fontSize=60&fontColor=d4a843&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20GIS%20Specialist&descSize=20&descAlignY=60&descColor=ffffff&animation=fadeIn"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00C9B1&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=🚀+MERN+Stack+Developer;🌍+GIS+%26+Geospatial+Specialist;🏗️+Building+Digital+Bridges" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00C9B1&center=true&vCenter=true&repeat=true&width=700&height=60&lines=MERN+Stack+Developer+%F0%9F%9A%80;GIS+%26+Geospatial+Specialist+%F0%9F%8C%8D;Building+Digital+Bridges+%F0%9F%8F%97%EF%B8%8F;Full-Stack+%2B+GeoSpatial+%3D+%E2%9C%A8" alt="Typing SVG" />
 
 <br/>
 
@@ -188,10 +188,11 @@ const tamer = {
 
 <br/>
 
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TamerAssaf-FullStackDev)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/tamtechgis)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tamer.assaf44)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@tamerassaf3)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tamer-a-assaf)
+[![TikTok](https://img.shields.io/badge/TikTok-010101?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@tamerassaf3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tam-tech-704548153)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tamer-Assaf2)
 [![Twitter/X](https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/TamTech43281)
 
@@ -206,7 +207,7 @@ const tamer = {
 ```html
 <!-- Animated Social Links Component -->
 <div class="social">
-<a href="https://www.youtube.com/@TamerAssaf-FullStackDev" target="_blank">
+  <a href="https://www.youtube.com/@TamerAssaf-FullStackDev" target="_blank">
     <i class="bx bxl-youtube"></i><span>YouTube</span>
   </a>
   <a href="https://github.com/tamer-Assaf2" target="_blank">
