@@ -90,34 +90,36 @@ const tamer = {
 
 ---
 
-### 🛒 SuperPlus — E-Commerce & Delivery Platform
+### 💧 SuperPlus — Water Purification Company Website
 **[superplus.ps](https://superplus.ps)**
 
 <table>
 <tr>
 <td width="60%">
 
-**📌 Tech Stack:** MERN + PostGIS + Leaflet.js
+**📌 Tech Stack:** HTML + CSS + JavaScript
 
-**🇬🇧 EN:** A full-featured e-commerce and delivery platform built for the Palestinian market. Features smart product search, real-time order tracking, and a geo-aware delivery system powered by PostGIS.
+**🇬🇧 EN:** A professional corporate website for Super Plus Water Purification — Palestine's trusted water purification company since 1995. Showcases home filtration systems and water treatment & desalination stations, with full SEO optimization and bilingual Arabic/English support.
 
-**🇵🇸 AR:** منصة تجارة إلكترونية وتوصيل متكاملة مبنية للسوق الفلسطيني. تتضمن بحثاً ذكياً عن المنتجات، تتبع الطلبات الفوري، ونظام توصيل جغرافي مدعوم بـ PostGIS.
+**🇵🇸 AR:** موقع رسمي لشركة سوبر بلس لتنقية المياه — الشركة الموثوقة في فلسطين منذ 1995. يعرض أنظمة الفلاتر المنزلية ومحطات معالجة وتحلية المياه، مع تحسين كامل لمحركات البحث ودعم ثنائي اللغة.
 
 **🚀 Key Features | المميزات:**
-- ✅ Real-time delivery tracking | تتبع التوصيل الفوري
-- ✅ Geo-aware smart routing | توجيه جغرافي ذكي
-- ✅ Multi-vendor support | دعم متعدد البائعين
-- ✅ Full admin dashboard | لوحة تحكم شاملة
-- ✅ RESTful API + JWT Auth | واجهة برمجية آمنة
+- ✅ Bilingual AR/EN support | دعم ثنائي اللغة عربي/إنجليزي
+- ✅ Full SEO & Schema.org optimization | تحسين كامل لمحركات البحث
+- ✅ Products & services showcase | عرض المنتجات والخدمات
+- ✅ Open Graph & social meta tags | تهيئة وسائل التواصل الاجتماعي
+- ✅ Mobile responsive | متجاوب مع الجوال
 
 </td>
 <td width="40%" align="center">
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat&logo=postgresql&logoColor=white)
-![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat&logo=leaflet&logoColor=white)
+<img src="https://superplus.ps/images/logo.png" alt="SuperPlus Logo" width="180" style="border-radius:12px; background:#fff; padding:10px;"/>
+
+<br/><br/>
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 🔗 **[🌐 Visit Site | زيارة الموقع](https://superplus.ps)**
 
@@ -127,33 +129,37 @@ const tamer = {
 
 ---
 
-### 🏙️ Ramallah Digital — Smart City Portal
+### 🎬 Ramallah Digital — Media Production Company Website
 **[ramallahdigital.ps](https://ramallahdigital.ps)**
 
 <table>
 <tr>
 <td width="60%">
 
-**📌 Tech Stack:** Next.js + Express + QGIS + Mapbox + PostGIS
+**📌 Tech Stack:** HTML + CSS + JavaScript + Bootstrap
 
-**🇬🇧 EN:** A smart city digital portal for Ramallah — connecting residents with city services, local businesses, and interactive urban maps powered by GIS intelligence.
+**🇬🇧 EN:** A professional website for Ramallah Digital — Palestine's leading media production company. Covers digital & documentary films, commercial ads, animation, infographics, aerial photography, green screen studio, TV programs, and festival coverage, with a custom design system and full SEO.
 
-**🇵🇸 AR:** بوابة رقمية للمدينة الذكية في رام الله — تربط السكان بخدمات المدينة والأعمال المحلية وخرائط المدينة التفاعلية المدعومة بتقنيات GIS.
+**🇵🇸 AR:** موقع رسمي لشركة رام الله ديجيتال للإنتاج الإعلامي — الرائدة في فلسطين. يغطي الأفلام الرقمية والوثائقية، الإعلانات التجارية، الأنيميشن، الإنفوغراف، التصوير الجوي، استوديو الشاشة الخضراء، البرامج التلفزيونية وتغطية المهرجانات.
 
 **🚀 Key Features | المميزات:**
-- ✅ Interactive GIS city maps | خرائط مدينة تفاعلية GIS
-- ✅ Business & services directory | دليل الأعمال والخدمات
-- ✅ Spatial analytics dashboard | لوحة تحليلات مكانية
-- ✅ City services portal | بوابة خدمات المدينة
+- ✅ Services & portfolio showcase | عرض الخدمات والأعمال
+- ✅ Bilingual AR/EN with hreflang | ثنائي اللغة مع hreflang
+- ✅ Full SEO + Schema.org + BreadcrumbList | تحسين شامل لمحركات البحث
+- ✅ Custom RDP design system | نظام تصميم مخصص
 - ✅ Mobile responsive | متجاوب مع الجوال
 
 </td>
 <td width="40%" align="center">
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=flat&logo=mapbox&logoColor=white)
-![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat&logo=postgresql&logoColor=white)
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white)
+<img src="https://ramallahdigital.ps/images/logo.png" alt="Ramallah Digital Logo" width="180" style="border-radius:12px; background:#fff; padding:10px;"/>
+
+<br/><br/>
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 🔗 **[🌐 Visit Site | زيارة الموقع](https://ramallahdigital.ps)**
 
@@ -163,33 +169,37 @@ const tamer = {
 
 ---
 
-### ✨ PerfectMood — Lifestyle & Wellness Platform
+### 🍕 PerfectMood — Restaurant Website
 **[perfectmood.ps](https://perfectmood.ps)**
 
 <table>
 <tr>
 <td width="60%">
 
-**📌 Tech Stack:** React + Tailwind + Node.js + MongoDB + JWT
+**📌 Tech Stack:** HTML + CSS + JavaScript + Bootstrap
 
-**🇬🇧 EN:** A lifestyle and wellness platform with mood-based content recommendations, appointment booking, and personalized user journeys — elegant UX meets smart backend logic.
+**🇬🇧 EN:** A professional restaurant website for Perfect Mood — one of the best grill, shawarma, and pizza restaurants in Palestine, based in Ramallah. Features an online menu, food delivery info, and full SEO with Menu Schema for maximum search visibility.
 
-**🇵🇸 AR:** منصة أسلوب حياة وعافية مع توصيات محتوى مبنية على المزاج، حجز المواعيد، ورحلات مستخدم مخصصة — تجربة مستخدم أنيقة مع منطق خلفي ذكي.
+**🇵🇸 AR:** موقع رسمي لمطعم بيرفكت مود — أحد أفضل مطاعم المشاوي، الشاورما والبيتزا في فلسطين، في رام الله. يتضمن قائمة الطعام، معلومات التوصيل، وتحسين كامل لمحركات البحث مع Menu Schema.
 
 **🚀 Key Features | المميزات:**
-- ✅ Mood-based content engine | محرك توصيات بناءً على المزاج
-- ✅ Appointment booking system | نظام حجز المواعيد
-- ✅ Personalized user profiles | ملفات مستخدم مخصصة
-- ✅ Auth + secure JWT | مصادقة آمنة
-- ✅ Elegant responsive UI | واجهة مستخدم أنيقة ومتجاوبة
+- ✅ Online menu with categories | قائمة طعام تفاعلية بالتصنيفات
+- ✅ Food delivery info | معلومات التوصيل
+- ✅ Full SEO + Restaurant & Menu Schema | تحسين شامل مع Schema للمطعم
+- ✅ Open Graph & social meta tags | تهيئة وسائل التواصل الاجتماعي
+- ✅ Mobile responsive | متجاوب مع الجوال
 
 </td>
 <td width="40%" align="center">
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+<img src="https://perfectmood.ps/images/logo/logoo.png" alt="PerfectMood Logo" width="180" style="border-radius:12px; background:#fff; padding:10px;"/>
+
+<br/><br/>
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 🔗 **[🌐 Visit Site | زيارة الموقع](https://perfectmood.ps)**
 
@@ -332,9 +342,9 @@ const tamer = {
 | 🎬 **YouTube** | دروس Full-Stack & GIS | [![YouTube](https://img.shields.io/badge/Watch-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@TamerAssaf-FullStackDev) |
 | 💼 **LinkedIn** | مشاريع مهنية & خبرات | [![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tam-tech-704548153) |
 | 👨‍💻 **GitHub** | مشاريع مفتوحة المصدر | [![GitHub](https://img.shields.io/badge/Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/tamer-Assaf2) |
-| 🛒 **SuperPlus** | منصة تجارة إلكترونية | [![Visit](https://img.shields.io/badge/Visit-00c9b1?style=flat&logoColor=white)](https://superplus.ps) |
-| 🏙️ **Ramallah Digital** | بوابة المدينة الذكية | [![Visit](https://img.shields.io/badge/Visit-00c9b1?style=flat&logoColor=white)](https://ramallahdigital.ps) |
-| ✨ **PerfectMood** | منصة الحياة والعافية | [![Visit](https://img.shields.io/badge/Visit-00c9b1?style=flat&logoColor=white)](https://perfectmood.ps) |
+| 💧 **SuperPlus** | شركة تنقية مياه | [![Visit](https://img.shields.io/badge/Visit-00c9b1?style=flat&logoColor=white)](https://superplus.ps) |
+| 🎬 **Ramallah Digital** | شركة إنتاج إعلامي | [![Visit](https://img.shields.io/badge/Visit-00c9b1?style=flat&logoColor=white)](https://ramallahdigital.ps) |
+| 🍕 **PerfectMood** | مطعم مشاوي وبيتزا | [![Visit](https://img.shields.io/badge/Visit-00c9b1?style=flat&logoColor=white)](https://perfectmood.ps) |
 | 📘 **Facebook** | TamTech GIS Page | [![Facebook](https://img.shields.io/badge/Follow-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/tamtechgis) |
 | 📸 **Instagram** | لقطات من المشاريع | [![Instagram](https://img.shields.io/badge/Follow-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/tamer.assaf44) |
 | 🎵 **TikTok** | محتوى تقني سريع | [![TikTok](https://img.shields.io/badge/Follow-010101?style=flat&logo=tiktok&logoColor=white)](https://tiktok.com/@tamerassaf3) |
