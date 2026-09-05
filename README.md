@@ -24,12 +24,14 @@ Building operational intelligence at the intersection of GIS, software engineeri
 
 const tamer = {
   name: "Tamer Ali Assaf",
-  location: "Ramallah, Palestine 🇵🇸",
+  location: "Ramallah, Palestine",
+
   roles: [
     "Security GIS Specialist",
     "Operational GIS & Command Systems Developer",
     "Full-Stack GIS Developer"
   ],
+
   expertise: [
     "Operational GIS",
     "Command & Control Systems",
@@ -39,10 +41,7 @@ const tamer = {
     "Full-Stack Development",
     "Geospatial AI"
   ],
-  technologies: [
-    "ArcGIS Enterprise", "ArcGIS Pro", "QGIS", "PostGIS", "PostgreSQL",
-    "OpenLayers", "Leaflet", "Node.js", "Express.js", "React", "MongoDB"
-  ],
+
   currentResearch: "GeoCommand AI"
 };
 
