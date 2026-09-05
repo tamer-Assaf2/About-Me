@@ -1,20 +1,15 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:0d2d4f,100:00c9b1&height=210&section=header&text=Tamer%20Ali%20Assaf&fontSize=55&fontColor=d4a843&fontAlignY=36&desc=Security%20GIS%20%7C%20Operational%20GIS%20%26%20Command%20Systems%20%7C%20Full-Stack%20GIS%20%7C%20Geospatial%20AI&descSize=16&descAlignY=58&descColor=ffffff&animation=fadeIn"/>
+Tamer Ali Assaf
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=900&color=00C9B1&center=true&vCenter=true&repeat=true&width=900&height=55&lines=Operational+GIS+%26+Command+Systems;Full-Stack+GIS+Development;Real-Time+Tracking+%26+Decision+Support;Geospatial+AI+%26+Spatial+Intelligence" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=tamer-Assaf2&style=for-the-badge&color=00c9b1&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/tamer-Assaf2?style=for-the-badge&color=d4a843&labelColor=0a1628&label=FOLLOWERS"/>
-
-<br/><br/>
+Security GIS Specialist • Operational GIS & Command Systems • Full-Stack GIS Developer • Geospatial AI
 
 
 
 
-<br/>
+
+
+
 
 Building operational intelligence at the intersection of GIS, software engineering, real-time systems, and AI.
 
@@ -40,6 +35,20 @@ const tamer = {
     "Decision Support Systems",
     "Full-Stack Development",
     "Geospatial AI"
+  ],
+
+  technologies: [
+    "ArcGIS Enterprise",
+    "ArcGIS Pro",
+    "QGIS",
+    "PostGIS",
+    "PostgreSQL",
+    "OpenLayers",
+    "Leaflet",
+    "Node.js",
+    "Express.js",
+    "React",
+    "MongoDB"
   ],
 
   currentResearch: "GeoCommand AI"
@@ -97,21 +106,21 @@ Current Applied Research Project
 
 GeoCommand AI extends operational GIS and command-and-control systems with Artificial Intelligence to support decision-making during major national operations.
 
-The research focuses on:
+Research focus:
 
-🧠 Dynamic security risk assessment
+Dynamic security risk assessment
 
-⚠️ Predictive early warning
+Predictive early warning
 
-🚓 Intelligent dispatch recommendations
+Intelligent dispatch recommendations
 
-📊 Resource optimization
+Resource optimization
 
-🗺️ Geospatial scenario analysis
+Geospatial scenario analysis
 
-🔍 Explainable AI
+Explainable AI
 
-👤 Human-in-the-Loop decision support
+Human-in-the-Loop decision support
 
 The framework is designed so that AI provides recommendations and analytical support while authorized human command retains decision-making authority.
 
@@ -121,7 +130,7 @@ Geospatial AI Operational GIS Machine Learning Risk Assessment Resource Optimiza
 
 Designed and developed an operational GIS platform supporting the planning and management of large-scale election-related operations.
 
-The platform integrates:
+Core capabilities:
 
 Polling locations and operational geography
 
@@ -151,7 +160,7 @@ Operational GIS Command & Control Spatial Analysis Resource Management GIS Dashb
 
 General Secondary Education Examination Operations
 
-Developed an interactive GIS-based operational management solution supporting police planning and field coordination during the Palestinian General Secondary Education Examination (Tawjihi) operations and examination sessions.
+Developed an interactive GIS-based operational management solution supporting police planning and field coordination during the Palestinian General Secondary Education Examination (Tawjihi) operations.
 
 The system applies a geospatial command-and-control approach similar to major election operations and supports:
 
@@ -181,17 +190,17 @@ Developed a portfolio of internal GIS applications supporting authorized police 
 
 Applied systems include:
 
-👮 Authorized geospatial personnel-support tools
+Authorized geospatial personnel-support tools
 
-🏥 Security and emergency mapping of hospitals, clinics, and medical facilities
+Security and emergency mapping of hospitals, clinics, and medical facilities
 
-🚧 Mapping and classification of Israeli movement restrictions
+Mapping and classification of movement restrictions
 
-🏦 Geospatial security assessment of banks and financial institutions
+Geospatial security assessment of banks and financial institutions
 
-🗺️ Interactive map-based police operations orders
+Interactive map-based police operations orders
 
-📊 Operational dashboards and spatial decision-support workflows
+Operational dashboards and spatial decision-support workflows
 
 These systems combine geospatial information with operational data to improve planning, situational awareness, coordination, and decision support.
 
@@ -205,43 +214,29 @@ School Trips Platform | Rawabi English Academy
 
 Designed and developed an integrated school transportation and trip management platform for Rawabi English Academy.
 
-The platform manages:
+The platform manages buses, students, parents, supervisors, drivers, routes, stops, and daily school trips.
 
-🚌 Buses
+Key capabilities:
 
-👨‍🎓 Students
+Real-time vehicle tracking
 
-👨‍👩‍👧 Parents
+Interactive GIS maps
 
-👷 Supervisors
+Student boarding and drop-off workflows
 
-🚘 Drivers
+Alerts and notifications
 
-🛣️ Routes and stops
+Parent-supervisor communication
 
-📅 Daily school trips
+Operational dashboards
 
-Key Capabilities
+Role-based mobile applications
 
-📍 Real-time vehicle tracking
+Web-based administration
 
-🗺️ Interactive GIS maps
+Authentication and role-based access
 
-🎓 Student boarding / drop-off workflows
-
-🔔 Alerts and notifications
-
-💬 Parent-supervisor communication
-
-📊 Operational dashboards
-
-📱 Role-based mobile applications
-
-🌐 Web-based administration
-
-🔐 Authentication and role-based access
-
-🔌 API and system integration
+API and system integration
 
 The platform combines Full-Stack Development + GIS + Real-Time Tracking + Mobile/Web Applications + Spatial Databases into an end-to-end transportation management system.
 
@@ -253,25 +248,25 @@ Cash & Security Mission Management Platform
 
 Designed and developed a GIS-enabled operational platform for managing cash transportation and security missions.
 
-The system supports workflows including:
+The platform supports:
 
-💵 Cash transportation
+Cash transportation
 
-🏧 ATM replenishment
+ATM replenishment
 
-🛡️ Security escort missions
+Security escort missions
 
-🚗 Vehicle management
+Vehicle management
 
-📍 Operational locations
+Operational locations
 
-🗺️ Routes
+Routes
 
-👥 Resource management
+Resource management
 
-📊 Operational dashboards
+Operational dashboards
 
-📡 Geospatial monitoring
+Geospatial monitoring
 
 The platform improves mission visibility, coordination, resource management, and operational situational awareness through integrated GIS and software workflows.
 
@@ -283,13 +278,13 @@ GIS Mission Management Real-Time Tracking Route Management Resource Management O
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/ArcGIS-Enterprise-2C7AC3?style=for-the-badge&logo=esri&logoColor=white"/>
-<img src="https://img.shields.io/badge/ArcGIS-Pro-67ACDA?style=for-the-badge&logo=esri&logoColor=white"/>
-<img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenLayers-1F6B75?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white"/>
-<img src="https://img.shields.io/badge/GeoServer-4B9CD3?style=for-the-badge"/>
+
+
+
+
+
+
+
 
 </div>
 
@@ -297,7 +292,15 @@ GIS Mission Management Real-Time Tracking Route Management Resource Management O
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css,postgres,git,github,docker,linux,vscode&perline=13&theme=dark"/>
+
+
+
+
+
+
+
+
+
 
 </div>
 
@@ -319,18 +322,18 @@ In addition to operational GIS platforms, I have designed and developed public-f
 
 💧 SuperPlus
 
-Water purification company website
-🌐 https://superplus.ps
+Water Purification Company Website
+Visit SuperPlus
 
 🎬 Ramallah Digital
 
-Media production company website
-🌐 https://ramallahdigital.ps
+Media Production Company Website
+Visit Ramallah Digital
 
 🍕 PerfectMood
 
-Restaurant website
-🌐 https://perfectmood.ps
+Restaurant Website
+Visit PerfectMood
 
 These projects demonstrate additional experience in responsive web development, bilingual interfaces, SEO, UI implementation, and production deployment.
 
@@ -344,14 +347,11 @@ I also publish technical content and project walkthroughs related to Full-Stack 
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tamer-Assaf2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a1628&title_color=00c9b1&icon_color=d4a843&text_color=ffffff&count_private=true&include_all_commits=true"/>
-<img width="49%" src="https://streak-stats.demolab.com/?user=tamer-Assaf2&theme=tokyonight&hide_border=true&background=0a1628&ring=00c9b1&fire=d4a843&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888"/>
 
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tamer-Assaf2&bg_color=0a1628&color=00c9b1&line=d4a843&point=ffffff&area=true&area_color=00c9b1&hide_border=true&custom_title=Tamer%20Ali%20Assaf%20-%20Contribution%20Graph"/>
 
 </div>
+
+GitHub activity statistics reflect public contribution data and may not include private or institutional development work.
 
 🤝 Let's Connect
 
@@ -361,14 +361,12 @@ I also publish technical content and project walkthroughs related to Full-Stack 
 
 
 
-</div>
-
-<div align="center">
+<br/><br/>
 
 Security GIS • Operational Systems • Full-Stack Development • Geospatial AI
 
 Building systems where geography, operations, software, and intelligence meet.
 
-🇵🇸 Ramallah, Palestine
+Ramallah, Palestine
 
 </div>
