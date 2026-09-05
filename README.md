@@ -1,6 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:0d2d4f,100:00c9b1&height=210&section=header&text=Tamer%20Ali%20Assaf&fontSize=55&fontColor=d4a843&fontAlignY=36&desc=Security%20GIS%20%7C%20Operational%20GIS%20%26%20Command%20Systems%20%7C%20Full-Stack%20GIS%20%7C%20Geospatial%20AI&descSize=16&descAlignY=58&descColor=ffffff&animation=fadeIn" alt="Tamer Ali Assaf"/>
+# Tamer Ali Assaf
+
+### Security GIS Specialist • Operational GIS & Command Systems • Full-Stack GIS Developer • Geospatial AI
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=900&color=00C9B1&center=true&vCenter=true&repeat=true&width=900&height=55&lines=Operational+GIS+%26+Command+Systems;Full-Stack+GIS+Development;Real-Time+Tracking+%26+Decision+Support;Geospatial+AI+%26+Spatial+Intelligence" alt="Professional focus"/>
 
@@ -502,9 +504,7 @@ A responsive restaurant website featuring menu information, delivery information
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9b1,50:0d2d4f,100:0a1628&height=120&section=footer&text=Thanks%20for%20visiting!%20%7C%20شكراً%20لزيارتك!&fontSize=22&fontColor=d4a843&fontAlignY=65&animation=fadeIn" alt="Thanks for visiting"/>
-
-<br/>
+## Thanks for visiting! | شكراً لزيارتك!
 
 ### Security GIS • Operational Systems • Full-Stack Development • Geospatial AI
 
